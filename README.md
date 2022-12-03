@@ -9,7 +9,6 @@ Below structure will be created for a given module:
 ├── providers.tf
 └── versions.tf
 ├── outputs.tf
-├── backend.tf
 ├── examples
 │   └── basic-example
 │       ├── main.tf
